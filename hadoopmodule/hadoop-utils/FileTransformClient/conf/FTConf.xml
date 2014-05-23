@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>default properties</comment>
+<entry key="dfs_server_host">localhost</entry>
+<entry key="dfs_server_port">4096</entry>
+<entry key="max_process_num">5</entry>
+    <entry key="max_connect_retry_time">3</entry>
+</properties>

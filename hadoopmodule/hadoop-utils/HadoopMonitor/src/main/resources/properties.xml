@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>default properties</comment>
+
+<entry key="dfs.name.host">192.168.1.130</entry>
+<entry key="dfs_name_port">9000</entry>
+
+<entry key="ws_publish_host">localhost</entry>
+<entry key="ws_publish_port">8081</entry>
+
+<entry key="mapred.job.tracker.host">192.168.1.130</entry>
+<entry key="mapred.job.tracker.port">9001</entry>
+
+
+<entry key="dfs_file_receiver_host">localhost</entry>
+<entry key="dfs_file_receiver_port">4096</entry>
+</properties>

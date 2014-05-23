@@ -1,0 +1,15 @@
+#maven
+target/
+log/
+# light
+algorithmmodule/
+web/
+servermodule/
+#idea
+.idea/
+*.iml
+*.iws
+
+#file
+*.jar
+*.class
